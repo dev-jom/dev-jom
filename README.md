@@ -1,6 +1,9 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Olá meu nome é Jonathas (Mas pode me chamar de Jhon)]  
+# 👋 Hi! my name is Jonathas (But you can call me Jhon)]  
 
-🎯 Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar soluções inovadoras.  
+
+🎯 Desenvolvedor Fullstack e Especialista em QA.
+🎯 Fullstack Developer & QA Specialist
 
 ---
 
@@ -10,8 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
