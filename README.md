@@ -1,5 +1,5 @@
-# 👋 Olá meu nome é Jonathas (Mas pode me chamar de Jhon)]  
-# 👋 Hi! my name is Jonathas (But you can call me Jhon)]  
+# 👋 Olá meu nome é Jonathas (Mas pode me chamar de Jhon)  # 👋 Hi! my name is Jonathas (But you can call me Jhon)
+
 
 
 🎯 Desenvolvedor Fullstack e Especialista em QA.
@@ -23,12 +23,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-jom&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jom&layout=compact&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dev-jom&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -49,9 +49,10 @@
 
 ## 📌 Projetos em Destaque  
 
-- 🔹 [Projeto 1](#) – descrição rápida  
-- 🔹 [Projeto 2](#) – descrição rápida  
-- 🔹 [Projeto 3](#) – descrição rápida  
+- 🔹 [Projeto 1](https://github.com/dev-jom/Modelo-7) – Esse projeto é um modelo de site para prefeituras feito com html, css e Bootstrap5.
+
+- 🔹 [Projeto 2](https://github.com/dev-jom/Dashboard-php) – Nesse Projeto desenvolvi uma visualização de dashboard, de testes desenvolvidos durante u,a sprint, usando laravel, as automatizações consistem na transformação de um json de planilhas, em um banco de dados e retornando assim os dados para preencher os gráficos na página.  
+
 
 ---
 
