@@ -1,4 +1,7 @@
-# 👋 Olá meu nome é Jonathas (Mas pode me chamar de Jhon)👋   👋 Hi! my name is Jonathas (But you can call me Jhon) 👋
+# 👋 Olá meu nome é Jonathas (Mas pode me chamar de Jhon)👋   
+
+
+# 👋 Hi! my name is Jonathas (But you can call me Jhon) 👋
 
 
 
