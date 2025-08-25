@@ -27,9 +27,9 @@
 
 ## 🛠️ Ferramentas & Outras Habilidades  
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,selenium,docker,git&theme=light&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,selenium,docker,git&theme=light&perline=8" />
   </a>
 </p>
 
