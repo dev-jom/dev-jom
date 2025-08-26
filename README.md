@@ -29,67 +29,67 @@
 ## 🛠️ Ferramentas & Outras Habilidades  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <br> <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;
+  
   </p>
 
 
