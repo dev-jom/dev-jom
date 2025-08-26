@@ -27,7 +27,7 @@
 ---
 
 ## 🛠️ Ferramentas & Outras Habilidades  
-<p align="start">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="50" height="50" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" width="50" height="50" />
